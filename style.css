@@ -1,0 +1,67 @@
+.box {
+    display: flex;
+    margin: 3px;
+}
+.a {
+    background-color: rgb(59, 59, 229);
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.s {
+    background-color: red;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.d {
+    background-color: blue;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.f {
+    background-color: yellow;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.g {
+    background-color: purple;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.h {
+    background-color: green;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.j {
+    background-color: tomato;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.k {
+    background-color: aqua;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
+.l {
+    background-color: brown;
+    width: 90px;
+    height: 30px;
+    padding: 25px;
+    margin: 3px;
+}
